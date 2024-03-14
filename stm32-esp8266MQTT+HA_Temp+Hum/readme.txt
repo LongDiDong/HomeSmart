@@ -6,7 +6,7 @@ ACCESS_KEY_key为密码
 DEVICE_NAME为设备名
 若MQTT服务端未开启客户端认证则不用修改
 
-3.板子：STM32F103ZE核心板+esp8266WiFi模块
+3.板子：STM32F103ZE核心板+esp8266WiFi模块 
 
 主要参考视频：
 B站：
