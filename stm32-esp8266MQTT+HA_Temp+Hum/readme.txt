@@ -1,10 +1,13 @@
 1.修改esp8266.c下的wifi账号及密码
+
 2.修改ha.c下的PROID、ACCESS_KEY_key和DEVICE_NAME
 PROID为MQTT服务端添加的用户名
 ACCESS_KEY_key为密码
 DEVICE_NAME为设备名
 若MQTT服务端未开启客户端认证则不用修改
-3.板子STM32F103ZE核心板+esp8266WiFi模块
+
+3.板子：STM32F103ZE核心板+esp8266WiFi模块
+
 主要参考视频：
 B站：
 世界不大我姓张：基于STM32的DHT11温湿度模块代码详解
